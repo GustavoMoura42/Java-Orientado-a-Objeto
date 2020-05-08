@@ -1,5 +1,5 @@
 # Programa-o-Orientada-a-Objetos
-PROF: Gerson -  
+PROF: Gerson    
 ALUNOS:  
 Gustavo dos Santos   
 Daniel Souza Lima   
